@@ -1,0 +1,5783 @@
+{
+  "md5": "5e84f4a506fedcebf2bd4ad0085b178b",
+  "blocks": [
+    {
+      "offset": "5a82",
+      "translated": true,
+      "len": 4,
+      "orig_text": "浅き",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5cf3",
+      "translated": true,
+      "len": 4,
+      "orig_text": "あ、",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5cfa",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\nいらっしゃーい♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5d32",
+      "translated": true,
+      "len": 29,
+      "orig_text": "さあ、今日のご用は\nなあにぃ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5e41",
+      "translated": true,
+      "len": 34,
+      "orig_text": "あれ？\nこの店って\nもしかして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f08",
+      "translated": true,
+      "len": 4,
+      "orig_text": "あ、",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f0f",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\nいらっしゃーい♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f7f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "メイメイさん？！\nやっぱり・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5fc5",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ど、どうして？！\nいつの間に・・？！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6047",
+      "translated": true,
+      "len": 57,
+      "orig_text": "にゃははははっ♪\nそれはぁ、\n乙女の秘密って\nコトでぇ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "60df",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6146",
+      "translated": true,
+      "len": 29,
+      "orig_text": "さあ、今日のご用は\nなあにぃ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6226",
+      "translated": true,
+      "len": 61,
+      "orig_text": "どうしよう？\n　お店を出る\n　召喚獣のことで相談\n　クジで運試し",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6361",
+      "translated": true,
+      "len": 65,
+      "orig_text": "召喚獣のことで相談\n　戻る\n　召喚獣とのふれあい\n　召喚獣の改名相談",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6596",
+      "translated": true,
+      "len": 66,
+      "orig_text": "　お店を出る\n　召喚獣のことで相談\n　クジで運試し\n　試練を受けたい\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "66d6",
+      "translated": true,
+      "len": 65,
+      "orig_text": "召喚獣のことで相談\n　戻る\n　召喚獣とのふれあい\n　召喚獣の改名相談",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "696a",
+      "translated": true,
+      "len": 46,
+      "orig_text": "どうしよう？\n　お店を出る\n　召喚獣のことで相談",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "69f1",
+      "translated": true,
+      "len": 16,
+      "orig_text": "　試練を受けたい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6aff",
+      "translated": true,
+      "len": 65,
+      "orig_text": "召喚獣のことで相談\n　戻る\n　召喚獣とのふれあい\n　召喚獣の改名相談",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6d6d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "あれ、もしかして\nもう帰っちゃうのぉ？\nつまんないなぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6e06",
+      "translated": true,
+      "len": 33,
+      "orig_text": "うん、また今度\n寄らせてもらうから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "75c6",
+      "translated": true,
+      "len": 4,
+      "orig_text": "あ、",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "75cd",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\nちょっと待って？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "763d",
+      "translated": true,
+      "len": 4,
+      "orig_text": "ん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "76d2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "貴方の運命に関する",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7706",
+      "translated": true,
+      "len": 18,
+      "orig_text": "貴女の運命に関する",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7731",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ことなんだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "776c",
+      "translated": true,
+      "len": 79,
+      "orig_text": "最近の行い、ちょっと\n悪いみたいねぇ・・・\n気をつけないと、後で\n後悔するわよぉ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7844",
+      "translated": true,
+      "len": 10,
+      "orig_text": "う・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7899",
+      "translated": true,
+      "len": 16,
+      "orig_text": "き、気をつけるよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "78cb",
+      "translated": true,
+      "len": 16,
+      "orig_text": "き、気をつけるわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7975",
+      "translated": true,
+      "len": 4,
+      "orig_text": "あ、",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "797c",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\nちょっと待って？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "79ec",
+      "translated": true,
+      "len": 4,
+      "orig_text": "ん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a4f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a7e",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ううん・・・\nなんでもない・・・\nにゃは、にゃはははっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7b3b",
+      "translated": true,
+      "len": 6,
+      "orig_text": "？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c8e",
+      "translated": true,
+      "len": 46,
+      "orig_text": "しかし・・・\nホント、不思議な\n人だよなあ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7cde",
+      "translated": true,
+      "len": 44,
+      "orig_text": "しかし・・・\nホント、不思議な\n人だなあ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7e01",
+      "translated": true,
+      "len": 12,
+      "orig_text": "毎度ありぃ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7eba",
+      "translated": true,
+      "len": 60,
+      "orig_text": "こらこら、若人ぉ？\nお酒をくれなくちゃあ\nダメだってばぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "803f",
+      "translated": true,
+      "len": 69,
+      "orig_text": "ありゃ・・・？\nこれって、いわゆる\nハズレってヤツ？\nにゃ、にゃはははっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "80fe",
+      "translated": true,
+      "len": 77,
+      "orig_text": "おおあたりぃぃっ！！\nそれも１等賞！！\nにゃははははははっ♪\n今日はツイてるねぇ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "81c5",
+      "translated": true,
+      "len": 73,
+      "orig_text": "あったりぃぃぃっ！\nにゃははははっ♪\nおめでとぉ、２等賞の\n景品はこれねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8288",
+      "translated": true,
+      "len": 52,
+      "orig_text": "にゃははははっ♪\n当たりでぇ〜す\n・・・３等だけどね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "82ec",
+      "translated": true,
+      "len": 56,
+      "orig_text": "はーい、それじゃあ\nこのお酒、お代として\nいただくわねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "83d1",
+      "translated": true,
+      "len": 60,
+      "orig_text": "この、新しく増えてる\n召喚獣のことで相談\nっていうのは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "846c",
+      "translated": true,
+      "len": 46,
+      "orig_text": "あー、それはねぇ\n「縁結び」みたいな\nものかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "84f9",
+      "translated": true,
+      "len": 12,
+      "orig_text": "縁結び？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8564",
+      "translated": true,
+      "len": 56,
+      "orig_text": "召喚獣と召喚主の\n信頼関係をよくする\n場を設けたりぃ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "85c3",
+      "translated": true,
+      "len": 63,
+      "orig_text": "召喚獣につけた\n「真の名」を\n新しくつけ直すこと\nができるのねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8661",
+      "translated": true,
+      "len": 31,
+      "orig_text": "信頼関係をよくする\nって・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "86df",
+      "translated": true,
+      "len": 46,
+      "orig_text": "召喚獣と召喚主の\n信頼関係がよく\nなればぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8734",
+      "translated": true,
+      "len": 73,
+      "orig_text": "召喚獣の潜在能力を\n引き出してぇ、強力な\n召喚術も使えるよう\nになるのねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "880e",
+      "translated": true,
+      "len": 10,
+      "orig_text": "へぇ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "883a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ふーん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "88a5",
+      "translated": true,
+      "len": 54,
+      "orig_text": "んーふふふふ・・・っ\nメイメイさんの\nおすすめでぇ〜す♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8934",
+      "translated": true,
+      "len": 71,
+      "orig_text": "うまく活用してぇ\n貴方の幸せな未来を\nつかまえてねぇ？\nにゃはははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "899d",
+      "translated": true,
+      "len": 71,
+      "orig_text": "うまく活用してぇ\n貴女の幸せな未来を\nつかまえてねぇ？\nにゃはははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8a67",
+      "translated": true,
+      "len": 39,
+      "orig_text": "さあ、どのコの名前を\n変えたいのかなぁ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8bc6",
+      "translated": true,
+      "len": 33,
+      "orig_text": "姓は星なり・・・\n名は命なり・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c0e",
+      "translated": true,
+      "len": 59,
+      "orig_text": "天地万象・・・\n星命流転・・・\n百邪万精・・・\n破邪龍声・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c70",
+      "translated": true,
+      "len": 31,
+      "orig_text": "王命に於いて\n疾く、為したまえ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ce0",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ふう・・・っ\nさ、これでオシマイね\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d39",
+      "translated": true,
+      "len": 56,
+      "orig_text": "はーい、それじゃあ\nこのお酒、お代として\nいただくわねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8f13",
+      "translated": true,
+      "len": 34,
+      "orig_text": "神秘の術にて\n招かれし\n異界の朋友よ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8f5c",
+      "translated": true,
+      "len": 38,
+      "orig_text": "願わくば誓約を\n越えた絆を求め\n築く場を",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8fa9",
+      "translated": true,
+      "len": 23,
+      "orig_text": "この者へと\n貸し与え給え",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "901f",
+      "translated": true,
+      "len": 59,
+      "orig_text": "天地万象・・・\n星命流転・・・\n龍命祈願・・・\n約定解放・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "90b9",
+      "translated": true,
+      "len": 31,
+      "orig_text": "王命に於いて\n疾く、為したまえ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "91ed",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ふう、それじゃあ\nがんばってねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "92bb",
+      "translated": true,
+      "len": 73,
+      "orig_text": "こらこら、若人ぉ？\nサモナイトペンを用意\nしなくちゃあダメ\nだってばぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9395",
+      "translated": true,
+      "len": 65,
+      "orig_text": "ありゃ・・・？\nサモナイトペンが\nなくなっちゃった\nみたいねぇ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "93fd",
+      "translated": true,
+      "len": 48,
+      "orig_text": "それじゃあ\nまた持ってきてねぇ？\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "94be",
+      "translated": true,
+      "len": 42,
+      "orig_text": "ありゃ・・・？\n怒らせちゃった\nみたいねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "950f",
+      "translated": true,
+      "len": 40,
+      "orig_text": "まぁでも\nサモナイトペンが\nあればぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "955e",
+      "translated": true,
+      "len": 65,
+      "orig_text": "何度でもできるから\nそんなに落ち込まない\nでねぇ？\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9630",
+      "translated": true,
+      "len": 53,
+      "orig_text": "にゃははははっ♪\nおめでとぉ\n仲良くなれた\nみたいねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "968c",
+      "translated": true,
+      "len": 53,
+      "orig_text": "この調子でぇ\nどんどん召喚獣と\n信頼関係を築いて\nねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9752",
+      "translated": true,
+      "len": 56,
+      "orig_text": "にゃははははっ♪\n召喚獣との信頼関係を\n築いたみたいねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "97cd",
+      "translated": true,
+      "len": 71,
+      "orig_text": "お気に入りになったたら\n召喚獣の潜在能力を\n引き出せるように\nなるわよぉ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "983b",
+      "translated": true,
+      "len": 61,
+      "orig_text": "でもぉ・・・\nお気に入りにできる\nのは、一人につき\nひとつだけぇ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "989f",
+      "translated": true,
+      "len": 60,
+      "orig_text": "新しい縁をつなぐとぉ\n古い縁は消えちゃう\nから気をつけてねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9902",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ま、浮気はいけない\nってことねぇ？\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9996",
+      "translated": true,
+      "len": 67,
+      "orig_text": "この調子でぇ\n貴方の幸せな未来を\nつかまえてねぇ？\nにゃはははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "99fb",
+      "translated": true,
+      "len": 67,
+      "orig_text": "この調子でぇ\n貴女の幸せな未来を\nつかまえてねぇ？\nにゃはははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9b4c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "すぅー・・・っ\nはぁぁー・・・っ\nすぅぅぅ・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9bdf",
+      "translated": true,
+      "len": 41,
+      "orig_text": "ハイッ！　フンッ！！\nハイィィィッ！！！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9c91",
+      "translated": true,
+      "len": 52,
+      "orig_text": "すごいっ！？\nあっという間に、マト\nが倒されていく！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9d4e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "フゥゥゥ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9d83",
+      "translated": true,
+      "len": 25,
+      "orig_text": "と、まあ\nこんなトコかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9e2d",
+      "translated": true,
+      "len": 54,
+      "orig_text": "改めて見たけど\nやっぱり、モーリンの\n拳法ってすごいなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9e93",
+      "translated": true,
+      "len": 56,
+      "orig_text": "改めて見たけど\nやっぱり、モーリンの\n拳法ってすごいわねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f2a",
+      "translated": true,
+      "len": 58,
+      "orig_text": "よ、よしとくれよっ？\nそんな、照れちまう\nじゃないかい・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9f8b",
+      "translated": true,
+      "len": 77,
+      "orig_text": "それに、地道に鍛錬を\n重ねれば、あんたにも\nこれぐらいは、できる\nようになるよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a061",
+      "translated": true,
+      "len": 8,
+      "orig_text": "本当に？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a0c8",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ああ、そうさ\nなんだったら、試しに\nやってみるかい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a13d",
+      "translated": true,
+      "len": 38,
+      "orig_text": "どうしよう？\n　やってみる\n　やめておく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a267",
+      "translated": true,
+      "len": 48,
+      "orig_text": "そうだな・・・\nそれじゃ、ちょっと\nやってみるか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a2c7",
+      "translated": true,
+      "len": 54,
+      "orig_text": "そうねえ・・・\nちょっと面白そうだし\nやってみようかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a35c",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そうこなくっちゃ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a408",
+      "translated": true,
+      "len": 31,
+      "orig_text": "今は遠慮しとくよ\n悪いけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a457",
+      "translated": true,
+      "len": 27,
+      "orig_text": "今は遠慮しとくわ\nゴメンね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a4d1",
+      "translated": true,
+      "len": 42,
+      "orig_text": "そうかい？\nま、気が向いたら\nいつでもおいで",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a66e",
+      "translated": true,
+      "len": 77,
+      "orig_text": "へえ、ずいぶんとやる\nもんじゃないか！？\nこれなら、まず不覚は\nとりっこないね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a789",
+      "translated": true,
+      "len": 73,
+      "orig_text": "まあまあだね・・・\n基本はできてんだから\nあとは地道に鍛錬を\n続けることさ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a8d2",
+      "translated": true,
+      "len": 65,
+      "orig_text": "なっさけないねぇ！？\nはあ・・・\nあんた、それで本当に\n男の子かい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "a943",
+      "translated": true,
+      "len": 73,
+      "orig_text": "護身くらいはできた\nほうがいいからね\nほら、あたいが基本\nから教えたげるよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "aab1",
+      "translated": true,
+      "len": 58,
+      "orig_text": "せっかく道場まで\n来たんだし、ちょっと\n稽古でもしようかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ab2e",
+      "translated": true,
+      "len": 36,
+      "orig_text": "どうしよう？\n　稽古をする\n　やめとく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae18",
+      "translated": true,
+      "len": 33,
+      "orig_text": "さて、と・・・\n時間もあることだし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ae60",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ちょっと、竿でも\n出してこようかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "af06",
+      "translated": true,
+      "len": 36,
+      "orig_text": "どうしよう？\n　釣りをする\n　やめとく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "afc8",
+      "translated": true,
+      "len": 23,
+      "orig_text": "・・・あっ\nエサがないや",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b006",
+      "translated": true,
+      "len": 29,
+      "orig_text": "これじゃあ釣りは\nできないよな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b053",
+      "translated": true,
+      "len": 21,
+      "orig_text": "むー・・・\nエサがない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b08f",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これじゃあ\n何も釣れないよね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b266",
+      "translated": true,
+      "len": 33,
+      "orig_text": "さて、と・・・\n時間もあることだし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b2ae",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ちょっと、竿でも\n出してこようかな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b354",
+      "translated": true,
+      "len": 36,
+      "orig_text": "どうしよう？\n　釣りをする\n　やめとく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b416",
+      "translated": true,
+      "len": 23,
+      "orig_text": "・・・あっ\nエサがないや",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b454",
+      "translated": true,
+      "len": 29,
+      "orig_text": "これじゃあ釣りは\nできないよな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b4a1",
+      "translated": true,
+      "len": 21,
+      "orig_text": "むー・・・\nエサがない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b4dd",
+      "translated": true,
+      "len": 27,
+      "orig_text": "これじゃあ\n何も釣れないよね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b703",
+      "translated": true,
+      "len": 67,
+      "orig_text": "本日ノ釣果モ上々デス\nコレナラ、皆サンニ\n満足シテイタダケル\nデショウ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b814",
+      "translated": true,
+      "len": 52,
+      "orig_text": "オメデトウゴザイマス\nあるじ殿！\n自己べすと、更新デス",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "b916",
+      "translated": true,
+      "len": 60,
+      "orig_text": "コレハ・・・ハタシテ\n魚ト呼ンデイイ生物\nナノデショウカ？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ba20",
+      "translated": true,
+      "len": 65,
+      "orig_text": "オツカレサマデシタ\nあるじ殿。\n釣ッタ魚ハ、台所マデ\n運ンデオキマス",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bb2f",
+      "translated": true,
+      "len": 71,
+      "orig_text": "現実ハ、ヤハリ\nしみゅれーしょんノ\nヨウニハイカナイト\nイウコトデスネ・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bcba",
+      "translated": true,
+      "len": 44,
+      "orig_text": "こんなに、いっぱい！\n大漁だね\nおにいちゃん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bd08",
+      "translated": true,
+      "len": 44,
+      "orig_text": "こんなに、いっぱい！\n大漁だね\nおねえちゃん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "be34",
+      "translated": true,
+      "len": 55,
+      "orig_text": "わ！？　おっきな\nおさかな・・・\nおにいちゃん\nすごいね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "be8d",
+      "translated": true,
+      "len": 55,
+      "orig_text": "わ！？　おっきな\nおさかな・・・\nおねえちゃん\nすごいね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "bf92",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ねえ？\nこのおさかな・・・\n食べられるの？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c0be",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ごくろうさま\nおにいちゃん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c0f9",
+      "translated": true,
+      "len": 25,
+      "orig_text": "ごくろうさま\nおねえちゃん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c212",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ざんねんだったね・・\nおにいちゃん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c25b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ざんねんだったね・・\nおねえちゃん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c394",
+      "translated": true,
+      "len": 56,
+      "orig_text": "お〜？　ま、ニンゲン\nなにがしか取り柄は\nあるってコトだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c49a",
+      "translated": true,
+      "len": 54,
+      "orig_text": "うお・・・！？\nま、まぐれにしちゃ\nやるじゃねェかよ・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c59e",
+      "translated": true,
+      "len": 44,
+      "orig_text": "なあ・・・\nこんなゲテモン\n本当に食う気かよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c698",
+      "translated": true,
+      "len": 37,
+      "orig_text": "今夜のメシは魚かァ\nヒヒヒ、楽しみだぜ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c78b",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ケッ！\n使えねェヤツだなァ\n・・・テメエはよォ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c8cb",
+      "translated": true,
+      "len": 58,
+      "orig_text": "うわあ！　こんなに\n大漁だなんてさすがは\nご主人様ですねぇ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "c9d3",
+      "translated": true,
+      "len": 54,
+      "orig_text": "これだけ大きなお魚だ\nと、料理のしがいも\nありますよね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cad7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "あ、あの・・・\nこれって、どう料理し\nたらいいんでしょう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cbdd",
+      "translated": true,
+      "len": 57,
+      "orig_text": "お疲れさまです\nご主人様。\nさっそく、料理に\nかかりますね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cce4",
+      "translated": true,
+      "len": 67,
+      "orig_text": "そんなに情けない顔し\nないでください。\n運が悪かっただけ\nですよ、ね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ce39",
+      "translated": true,
+      "len": 29,
+      "orig_text": "うにゅううっ♪\n大漁ですのっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "cf24",
+      "translated": true,
+      "len": 62,
+      "orig_text": "スゴイですの・・・！\nこんな大きなお魚さん\n見たことないですの！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d030",
+      "translated": true,
+      "len": 59,
+      "orig_text": "ふにゅうぅぅ・・・\nなんだか\nこのお魚さん\nコワイですのぉ・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d139",
+      "translated": true,
+      "len": 41,
+      "orig_text": "これで、今晩のオカズ\nはバッチリですのっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d230",
+      "translated": true,
+      "len": 48,
+      "orig_text": "こんな日もあるですの\n気を落とさないで\nくださいの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d4ed",
+      "translated": true,
+      "len": 25,
+      "orig_text": "パッフェルさん\n相変わらず",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d551",
+      "translated": true,
+      "len": 12,
+      "orig_text": "忙しそうだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d57f",
+      "translated": true,
+      "len": 10,
+      "orig_text": "忙しそうね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d5b0",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ちょっと\n手伝ってあげようかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d610",
+      "translated": true,
+      "len": 40,
+      "orig_text": "どうしよう？\n　配達を手伝う\n　やめておく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d794",
+      "translated": true,
+      "len": 77,
+      "orig_text": "いやー、さすがです♪\nもう大助かりですよ\n次の機会も、ぜひまた\nお願いしますね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d8bd",
+      "translated": true,
+      "len": 52,
+      "orig_text": "お手伝いしてくれて\nどうも、ありがとう\nございました♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "d9cd",
+      "translated": true,
+      "len": 50,
+      "orig_text": "んー・・・\nまあ、慣れてないから\n仕方ないですよね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dadb",
+      "translated": true,
+      "len": 71,
+      "orig_text": "あ、ははは・・・っ\n苦情の山ですよぉ！？\n私、クビにされちゃう\nかもぉ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dd78",
+      "translated": true,
+      "len": 29,
+      "orig_text": "おっ、チビすけ\n今日も元気か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ddb7",
+      "translated": true,
+      "len": 33,
+      "orig_text": "あっ、おチビさん\n今日も元気かな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "de37",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "de54",
+      "translated": true,
+      "len": 8,
+      "orig_text": "にゃー！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "de9f",
+      "translated": true,
+      "len": 38,
+      "orig_text": "どうしよう？\n　ネコと遊ぶ\n　やめておく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dfca",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "dfe7",
+      "translated": true,
+      "len": 8,
+      "orig_text": "にゃー！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e080",
+      "translated": true,
+      "len": 53,
+      "orig_text": "あれ！？\nお前、どうして\nこんなところに\nいるんだ？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e0dc",
+      "translated": true,
+      "len": 52,
+      "orig_text": "もしかして・・・\n俺たちのあとを\nおっかけてきたとか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e140",
+      "translated": true,
+      "len": 51,
+      "orig_text": "あれ！？\nキミ、どうして\nこんなところに\nいるの？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e19a",
+      "translated": true,
+      "len": 56,
+      "orig_text": "もしかして・・・\nあたしたちのあとを\nおっかけてきたとか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e231",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e24e",
+      "translated": true,
+      "len": 14,
+      "orig_text": "にゃー、にゃー",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e317",
+      "translated": true,
+      "len": 38,
+      "orig_text": "そっか・・・\nあははは、すごいな\nお前は",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e36d",
+      "translated": true,
+      "len": 40,
+      "orig_text": "そっか・・・\nあははっ、すごいわね\nキミは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e3f4",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e411",
+      "translated": true,
+      "len": 8,
+      "orig_text": "にゃー♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e44e",
+      "translated": true,
+      "len": 38,
+      "orig_text": "どうしよう？\n　ネコと遊ぶ\n　やめておく",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e6e6",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これを、俺に？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e724",
+      "translated": true,
+      "len": 16,
+      "orig_text": "これ、あたしに？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e793",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e7b0",
+      "translated": true,
+      "len": 6,
+      "orig_text": "にゃー",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e847",
+      "translated": true,
+      "len": 35,
+      "orig_text": "はははっ、そっか\n恩返しのつもりだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e891",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ありがとな、チビすけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e8d5",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そっかぁ・・・\n恩返しのつもりなのね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e91f",
+      "translated": true,
+      "len": 23,
+      "orig_text": "ありがとね\nおチビさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e995",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "e9b2",
+      "translated": true,
+      "len": 8,
+      "orig_text": "にゃー♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ea8b",
+      "translated": true,
+      "len": 14,
+      "orig_text": "これを、俺に？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eac0",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ありがとな、チビすけ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb04",
+      "translated": true,
+      "len": 16,
+      "orig_text": "これ、あたしに？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eb3b",
+      "translated": true,
+      "len": 23,
+      "orig_text": "ありがとね\nおチビさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ebb1",
+      "translated": true,
+      "len": 4,
+      "orig_text": "子猫",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ebce",
+      "translated": true,
+      "len": 8,
+      "orig_text": "にゃー♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ecb6",
+      "translated": true,
+      "len": 38,
+      "orig_text": "あれー？\nどこに行っちゃった\nんだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ed03",
+      "translated": true,
+      "len": 18,
+      "orig_text": "まあ、いいか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "edb5",
+      "translated": true,
+      "len": 38,
+      "orig_text": "あれれ？\nどこに行っちゃった\nんだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ee02",
+      "translated": true,
+      "len": 25,
+      "orig_text": "おーい\nおチビさーん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "eee6",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ねぇ、若人ぉ？\n前から聞きたいって\n思ってたんだけどね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ef73",
+      "translated": true,
+      "len": 18,
+      "orig_text": "貴方たち、いつもは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "efa7",
+      "translated": true,
+      "len": 18,
+      "orig_text": "貴女たち、いつもは",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "efd2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "なにやってんのぉ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f06d",
+      "translated": true,
+      "len": 4,
+      "orig_text": "へ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f0d0",
+      "translated": true,
+      "len": 39,
+      "orig_text": "だってぇ、働いてる\nようには見えないしぃ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f11e",
+      "translated": true,
+      "len": 41,
+      "orig_text": "なぁんとなく、剣呑な\n気を感じるのよねえ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f16e",
+      "translated": true,
+      "len": 39,
+      "orig_text": "まるでぇ、四六時中\n戦ってるみたいなぁ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f1f4",
+      "translated": true,
+      "len": 31,
+      "orig_text": "う・・・っ？\nす、するどいっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f272",
+      "translated": true,
+      "len": 69,
+      "orig_text": "さぁ、若人ぉ？\nこのメイメイさんが\n納得できるように\n説明なさいよぉ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f332",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ふぅーん・・・\nそーゆう事情なワケね\nなるほどぉ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f3c5",
+      "translated": true,
+      "len": 52,
+      "orig_text": "な、成り行きで\n説明しちゃったけど\nよかったのかなぁ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f458",
+      "translated": true,
+      "len": 73,
+      "orig_text": "ねぇねぇ、それじゃあ\nもしかして強くなろう\nとかって、考えたり\nしてなぁい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f52a",
+      "translated": true,
+      "len": 56,
+      "orig_text": "それはまあ、たしかに\nそういうことは考えて\nいるけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f5eb",
+      "translated": true,
+      "len": 56,
+      "orig_text": "にゃははははっ♪\nだったら、いい訓練の\n場所があるわよぉ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f682",
+      "translated": true,
+      "len": 6,
+      "orig_text": "え！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f6e7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ま、お得意さんには\nたまには、オマケして\nあげないとねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f746",
+      "translated": true,
+      "len": 73,
+      "orig_text": "お仲間を連れてきたら\nその場所に連れてって\nあげるわよぉ\nほら、呼んできて？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f7ee",
+      "translated": true,
+      "len": 35,
+      "orig_text": "だっ、だいじょうぶ\nなのかなぁ？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "f870",
+      "translated": true,
+      "len": 77,
+      "orig_text": "んーふふふふ・・・っ\nこのメイメイさんに\nどぉーんと任せなさい\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fa08",
+      "translated": true,
+      "len": 29,
+      "orig_text": "ここは・・・\nいったい・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "faca",
+      "translated": true,
+      "len": 65,
+      "orig_text": "お、おいっ！？\nここはひょっとして\n「至源の泉」じゃ\nねえのかっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fb94",
+      "translated": true,
+      "len": 33,
+      "orig_text": "にゃはははっ♪\n大当たりぃぃぃっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fc5a",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ってことは、ここは\n聖王家の人間以外\n立入禁止の場所って\nことじゃ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fcfc",
+      "translated": true,
+      "len": 20,
+      "orig_text": "んー、そうみたいね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fd37",
+      "translated": true,
+      "len": 52,
+      "orig_text": "だけどぉ、ここじゃ\nないと条件が揃って\nいないんだもの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fd92",
+      "translated": true,
+      "len": 48,
+      "orig_text": "黙ってりゃあ\nわかんないわよぉ？\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "fe67",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ま、たしかにそりゃ\nそーだがよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ff2f",
+      "translated": true,
+      "len": 31,
+      "orig_text": "い、いいのかなぁ？\nそれで・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "ffad",
+      "translated": true,
+      "len": 33,
+      "orig_text": "それじゃ、さっさと\n始めるわよぉ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1001f",
+      "translated": true,
+      "len": 73,
+      "orig_text": "万物に至る源の泉よ\n願わくば、我が声を\n受けて、その真なる\n姿を示さんことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "100c7",
+      "translated": true,
+      "len": 59,
+      "orig_text": "四界天輪・・・\n陰陽太極・・・\n龍命祈願・・・\n自在解門・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10161",
+      "translated": true,
+      "len": 71,
+      "orig_text": "星の巡りよ・・・\n克己を望む者たちに\n果て無き試練の門を\n開きたまえ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10207",
+      "translated": true,
+      "len": 31,
+      "orig_text": "王命に於いて\n疾く、為したまえ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1033b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "泉の中に、門が！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "103d6",
+      "translated": true,
+      "len": 60,
+      "orig_text": "その門はねぇ、世界の\n狭間にある特別な空間\nにつながってるのよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10439",
+      "translated": true,
+      "len": 65,
+      "orig_text": "ロレイラルにぃ\nサプレスでしょお\nシルターンにぃ\nメイトルパぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "104a1",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ありとあらゆる世界で\n様々な戦いを、試練と\nして受けられるのね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10582",
+      "translated": true,
+      "len": 52,
+      "orig_text": "それが本当だとしたら\nとんでもないことじゃ\nないか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1065b",
+      "translated": true,
+      "len": 18,
+      "orig_text": "メイメイさん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "106b8",
+      "translated": true,
+      "len": 16,
+      "orig_text": "貴方は、いったい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "106ea",
+      "translated": true,
+      "len": 16,
+      "orig_text": "貴女は、いったい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10713",
+      "translated": true,
+      "len": 39,
+      "orig_text": "どうしてこんなことが\nできるんです？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "107c3",
+      "translated": true,
+      "len": 57,
+      "orig_text": "にゃははははっ♪\nそれはぁ、\n乙女の秘密って\nコトでぇ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1085b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "108f0",
+      "translated": true,
+      "len": 77,
+      "orig_text": "ただ、この至源の泉が\nあるからこそ、できる\n芸当なんだってのは\n忘れないでねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "109e2",
+      "translated": true,
+      "len": 39,
+      "orig_text": "エルゴの王の力・・・\nということか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10aae",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10b5f",
+      "translated": true,
+      "len": 54,
+      "orig_text": "帰りたくなったら\nいつでも、帰れるよう\nになってるけどぉ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10be6",
+      "translated": true,
+      "len": 52,
+      "orig_text": "死んじゃったら\nそれまでだからねぇ？\nにゃははははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10c41",
+      "translated": true,
+      "len": 31,
+      "orig_text": "それじゃあ\nいってらっしゃーい♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10deb",
+      "translated": true,
+      "len": 73,
+      "orig_text": "万物に至る源の泉よ\n願わくば、我が声を\n受けて、その真なる\n姿を示さんことを",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10e93",
+      "translated": true,
+      "len": 59,
+      "orig_text": "四界天輪・・・\n陰陽太極・・・\n龍命祈願・・・\n自在解門・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10f2d",
+      "translated": true,
+      "len": 71,
+      "orig_text": "星の巡りよ・・・\n克己を望む者たちに\n果て無き試練の門を\n開きたまえ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "10fd3",
+      "translated": true,
+      "len": 31,
+      "orig_text": "王命に於いて\n疾く、為したまえ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11107",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ふう、それじゃあ\nほどほどに\nがんばってねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11241",
+      "translated": true,
+      "len": 12,
+      "orig_text": "どうしよう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11298",
+      "translated": true,
+      "len": 45,
+      "orig_text": "　まだまだいけるぞ\n　今回はこのへんでやめよう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11331",
+      "translated": true,
+      "len": 49,
+      "orig_text": "　どんどんいっちゃおう\n　今回はこのへんでやめよう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "116c7",
+      "translated": true,
+      "len": 16,
+      "orig_text": "おかえりぃ〜っ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "11759",
+      "translated": true,
+      "len": 56,
+      "orig_text": "無理は禁物だものねぇ\n自信がついたら、また\n挑戦してねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1181c",
+      "translated": true,
+      "len": 60,
+      "orig_text": "おつかれさまぁ・・・\nまた試練を受けたく\nなったら、来てねぇ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "118b1",
+      "translated": true,
+      "len": 75,
+      "orig_text": "がんばったみたいねぇ\n来た時とは、ずいぶん\n気の輝きが違うもの\nにゃはははっ♪",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1343b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "う・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1353f",
+      "translated": true,
+      "len": 25,
+      "orig_text": "あ・・・\nきがついた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13618",
+      "translated": true,
+      "len": 54,
+      "orig_text": "あ、ご主人さまっ\n目を覚ましましたよ\nシャムロックさん！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "136fc",
+      "translated": true,
+      "len": 39,
+      "orig_text": "おお、シャムロック\n心配させやがって！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "137ac",
+      "translated": true,
+      "len": 16,
+      "orig_text": "あつっ・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13861",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ちょっと、フォルテ\nいきなり大声出しちゃ\nダメだってば！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "138f6",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あ、わ、わりィ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "139fd",
+      "translated": true,
+      "len": 31,
+      "orig_text": "大丈夫ですか\nシャムロックさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13a3e",
+      "translated": true,
+      "len": 31,
+      "orig_text": "大丈夫ですか\nシャムロックさん？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13abc",
+      "translated": true,
+      "len": 42,
+      "orig_text": "ああ、大丈夫\nちょっと頭に響いた\nだけだから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13b0d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "それより、ここは？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13bc4",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ルウの家のベッドよ\n気絶した貴方をみんな\nでここに運んできたの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13cd7",
+      "translated": true,
+      "len": 73,
+      "orig_text": "勝手だとは思ったけど\nあの場所じゃ、安心\nして休んでもらえない\nと思ったから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13d42",
+      "translated": true,
+      "len": 73,
+      "orig_text": "勝手だとは思ったけど\nあの場所じゃ、安心\nして休んでもらえない\nと思ったから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13e30",
+      "translated": true,
+      "len": 71,
+      "orig_text": "僕たちの疲労も相当の\nものだったからな\n戦場に留まることは\n無理だったろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "13f53",
+      "translated": true,
+      "len": 61,
+      "orig_text": "戦場・・・\nそうだ！？\n砦は、ローウェン砦は\nあれからいったい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14019",
+      "translated": true,
+      "len": 33,
+      "orig_text": "私の他に生き残った\n者はどこへ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14124",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "141ff",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1426a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ダメ、でしたか・・・\nやはり・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14330",
+      "translated": true,
+      "len": 58,
+      "orig_text": "私たちもできる限りは\n生き残りを探そうと\nしたんだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1440f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "全滅、と判断するしか\nないあり様だった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "144d9",
+      "translated": true,
+      "len": 14,
+      "orig_text": "すまねえ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14570",
+      "translated": true,
+      "len": 48,
+      "orig_text": "仕方のないことです\n貴方がたのせいでは\nありません",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "145c7",
+      "translated": true,
+      "len": 79,
+      "orig_text": "それに、あの状況から\n不甲斐ない私を救って\nくれただけでも、感嘆\nすべきことですよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14667",
+      "translated": true,
+      "len": 54,
+      "orig_text": "さすがは、フォルテ様\nのお側に使える従者の\n方々ですね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14787",
+      "translated": true,
+      "len": 12,
+      "orig_text": "なに・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14838",
+      "translated": true,
+      "len": 14,
+      "orig_text": "フォルテ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "148eb",
+      "translated": true,
+      "len": 20,
+      "orig_text": "「さま」〜〜っ？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14a25",
+      "translated": true,
+      "len": 20,
+      "orig_text": "あわわわわぁ〜っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14ade",
+      "translated": true,
+      "len": 54,
+      "orig_text": "砦の守備隊長さんが\nとっても偉い騎士様が\n敬語を・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14b9d",
+      "translated": true,
+      "len": 75,
+      "orig_text": "こ、こいつってば\n起きたばかりで、頭の\n調子が今ひとつっぽい\nみてーだなっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14c8d",
+      "translated": true,
+      "len": 50,
+      "orig_text": "なにをおっしゃってる\nのですか？\n私なら、もう・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14e7c",
+      "translated": true,
+      "len": 12,
+      "orig_text": "あいたっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "14f2d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "いーから、話をオレに\nあわせろっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1502b",
+      "translated": true,
+      "len": 41,
+      "orig_text": "ちょっと、フォルテっ\n怪我人になにすんのよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "150b3",
+      "translated": true,
+      "len": 73,
+      "orig_text": "な、なんでもねーって\nと、とにかく、オレは\nこいつを落ち着かせる\nから・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15123",
+      "translated": true,
+      "len": 54,
+      "orig_text": "お前ら、しばらくこの\n部屋から出ててくれっ\nな？なっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15230",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ちょ、ちょっと・・・\nなんなんだよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15277",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ちょ、ちょっと・・・\nなんなのよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15365",
+      "translated": true,
+      "len": 31,
+      "orig_text": "なによ、あいつ\n身勝手ねえ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "153e3",
+      "translated": true,
+      "len": 54,
+      "orig_text": "まあ、彼なりに事情が\nあるんだろうな\n任せておくとしよう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15563",
+      "translated": true,
+      "len": 35,
+      "orig_text": "何か悪巧みしてるだけ\nの様だけど・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "155a8",
+      "translated": true,
+      "len": 39,
+      "orig_text": "何か悪巧みしてるだけ\nの様なんだけど・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "156a1",
+      "translated": true,
+      "len": 58,
+      "orig_text": "シカシ、アノ方デモ\n動揺スルヨウナコトガ\nアルノデスネ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15702",
+      "translated": true,
+      "len": 12,
+      "orig_text": "予想外デシタ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "157ce",
+      "translated": true,
+      "len": 46,
+      "orig_text": "なんか弱味でも\n握られてたりしてな\nヒヒヒ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1588d",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ありえそうで\n笑えない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "158ca",
+      "translated": true,
+      "len": 27,
+      "orig_text": "ありえそうで\n笑えない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "159af",
+      "translated": true,
+      "len": 46,
+      "orig_text": "よぉ、どんなもんだ\n騎士の兄ちゃんの\n具合はよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15a3c",
+      "translated": true,
+      "len": 60,
+      "orig_text": "思ったほどひどくない\nみたいよ。落ち着いた\nら、起きてくるかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15b1d",
+      "translated": true,
+      "len": 16,
+      "orig_text": "うむ、それは重畳",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15bee",
+      "translated": true,
+      "len": 48,
+      "orig_text": "よかった！\nモーリンさんのストラ\nが効いたんですね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15c7d",
+      "translated": true,
+      "len": 79,
+      "orig_text": "な、なに言ってんだい\nあんたが治癒の奇跡で\n早いとこ傷を塞いだ\nからだって・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15da3",
+      "translated": true,
+      "len": 39,
+      "orig_text": "二人が一生懸命に看病\nしたからだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15dec",
+      "translated": true,
+      "len": 37,
+      "orig_text": "二人が一生懸命に看病\nしたからよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15eb6",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そうですよ\n代わる代わるに手当て\nを続けたおかげです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "15fba",
+      "translated": true,
+      "len": 50,
+      "orig_text": "そうですよ\nお二人とも、すごく\nがんばってましたもの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "160ac",
+      "translated": true,
+      "len": 59,
+      "orig_text": "アメルさんも\nモーリンさんも\nおんなじくらい\nエライですのー！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1618c",
+      "translated": true,
+      "len": 48,
+      "orig_text": "でも、モナティさんも\nがんばってくれました\nよね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16261",
+      "translated": true,
+      "len": 56,
+      "orig_text": "そうそう、あたいたち\nのところに食事とか\n運んでくれたりさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16370",
+      "translated": true,
+      "len": 19,
+      "orig_text": "そうなの？\nモナティ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "163a5",
+      "translated": true,
+      "len": 19,
+      "orig_text": "そうなの？\nモナティ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1645d",
+      "translated": true,
+      "len": 42,
+      "orig_text": "にゅ・・・\nたしかに、それは\nそうですけどぉ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16542",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そうか・・・\n疲れてるのに、よく\nがんばってくれたな\n本当にごくろうさま",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "165a9",
+      "translated": true,
+      "len": 69,
+      "orig_text": "そっか・・・\n疲れてるのに、よく\nがんばってくれたわ\n本当にごくろうさま",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16693",
+      "translated": true,
+      "len": 14,
+      "orig_text": "あ、ああ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16746",
+      "translated": true,
+      "len": 12,
+      "orig_text": "えへへ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "167f7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "うにゅうう、そんな\n改めてほめられると\n照れくさいですのぉ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1698c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "そちらは一安心として\n問題は、これから\nどうするかです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16a7c",
+      "translated": true,
+      "len": 67,
+      "orig_text": "どうでもいいが\n他人のことより、これ\nから先、どうすんのか\n決めようぜ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16b1e",
+      "translated": true,
+      "len": 65,
+      "orig_text": "だな・・・\nあてにしてた情報も\nこれじゃあ聞けそうに\nもねえだろうし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16c04",
+      "translated": true,
+      "len": 62,
+      "orig_text": "それ以前に、デグレア\nが本格的に侵略行為を\n開始したことが問題だ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16c69",
+      "translated": true,
+      "len": 52,
+      "orig_text": "砦を落としたのは\nトライドラと全面戦争\nするためだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16cc4",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そうなれば、今までの\nように旅を続けること\nはできなくなるぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16da3",
+      "translated": true,
+      "len": 71,
+      "orig_text": "え、でも今までだって\nデグレアは、何度も\n聖王国の領土に攻めて\nきたけれど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16e11",
+      "translated": true,
+      "len": 35,
+      "orig_text": "すぐに追い払われ\nちゃったじゃない？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16e93",
+      "translated": true,
+      "len": 41,
+      "orig_text": "今までとは状況が違う\n砦が落とされてるんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16f61",
+      "translated": true,
+      "len": 54,
+      "orig_text": "しかし、戦の準備には\nそれなりに時間が必要\nでござろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "16ff6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "それが、唯一の救いと\nいったところだな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "170f2",
+      "translated": true,
+      "len": 44,
+      "orig_text": "それまでに応戦の\n準備が整えられるって\nことか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17140",
+      "translated": true,
+      "len": 44,
+      "orig_text": "それまでに応戦の\n準備が整えられるって\nわけね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1722d",
+      "translated": true,
+      "len": 39,
+      "orig_text": "そのためにも、伝令が\n必要なんです・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "172f9",
+      "translated": true,
+      "len": 20,
+      "orig_text": "シャムロックさんっ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "173b2",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ちょっと、あんた\n怪我人が鎧を着こんで\nどうするつもりだい！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17491",
+      "translated": true,
+      "len": 60,
+      "orig_text": "今からトライドラまで\n砦の陥落を知らせに\n行くんだそーだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "174f4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "止めたんだがな\nどーしても言うことを\n聞きやがらねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "175cb",
+      "translated": true,
+      "len": 62,
+      "orig_text": "フォルテさ・・・いえ\n彼から、詳しい事情は\n聞かせてもらいました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17630",
+      "translated": true,
+      "len": 81,
+      "orig_text": "お世話になった皆さん\nにお礼もできないのは\n心苦しいですが、事態\nは急を要するのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "176a8",
+      "translated": true,
+      "len": 60,
+      "orig_text": "一刻も早く、生き残り\nである私がこのことを\n知らせないと・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17789",
+      "translated": true,
+      "len": 48,
+      "orig_text": "だからって、そんな\n状態で行くなんて無茶\nだわっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1788b",
+      "translated": true,
+      "len": 58,
+      "orig_text": "傷ガ塞ガッタトハイエ\n失ッタ血液ハ、マダ\n回復サレテイマセン",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17985",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ケッ！どうやら\nコイツは、よっぽど\n死にてェらしいな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17a79",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・ダメだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17aae",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ほんとに・・・\nしんじゃうよ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17b91",
+      "translated": true,
+      "len": 71,
+      "orig_text": "無茶ですよっ！？\n今だって、立ってるの\nがやっとみたいじゃ\nないですかっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17c98",
+      "translated": true,
+      "len": 44,
+      "orig_text": "そうですのー！\nまた、倒れちゃい\nますのー！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17d56",
+      "translated": true,
+      "len": 31,
+      "orig_text": "無茶でも、やるしか\nないんです！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17d9c",
+      "translated": true,
+      "len": 79,
+      "orig_text": "私が急使として走らね\nば、トライドラだけで\nなく、聖王国が危機に\nさらされる・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17e90",
+      "translated": true,
+      "len": 35,
+      "orig_text": "お前さんじゃなけりゃ\nダメなのかい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "17f12",
+      "translated": true,
+      "len": 62,
+      "orig_text": "騎士である私の言葉だ\nからこそ、遅滞なしに\n領主まで伝わるのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18043",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そういうことなら\n止められないな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18086",
+      "translated": true,
+      "len": 35,
+      "orig_text": "そういうことなら\n止められないわね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18108",
+      "translated": true,
+      "len": 18,
+      "orig_text": "いたしかたあるまい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "181db",
+      "translated": true,
+      "len": 35,
+      "orig_text": "もうひと頑張りできる\nかい、アメル？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1825d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ええ、もちろんです！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18332",
+      "translated": true,
+      "len": 10,
+      "orig_text": "え・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18458",
+      "translated": true,
+      "len": 54,
+      "orig_text": "俺たちが、貴方を\nトライドラまで無事に\n送り届けるんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "184b0",
+      "translated": true,
+      "len": 58,
+      "orig_text": "あたしたちが、貴方を\nトライドラまで無事に\n送り届けるんです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1858f",
+      "translated": true,
+      "len": 29,
+      "orig_text": "な、シャムロック\n言っただろ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "185d3",
+      "translated": true,
+      "len": 35,
+      "orig_text": "俺の「仲間」はきっと\nこうするってな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18655",
+      "translated": true,
+      "len": 37,
+      "orig_text": "しかし、貴方たちには\n別の目的が・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18751",
+      "translated": true,
+      "len": 54,
+      "orig_text": "戦争が始まってしまえ\nば、それどころじゃ\nありませんよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18835",
+      "translated": true,
+      "len": 52,
+      "orig_text": "あんたらに今ここで\n負けられちまうと困る\nんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1890e",
+      "translated": true,
+      "len": 81,
+      "orig_text": "トライドラがデグレア\nを退ければ、黒の旅団\nの行動を制限すること\nにもつながるだろう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18a36",
+      "translated": true,
+      "len": 8,
+      "orig_text": "急ごう！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18a60",
+      "translated": true,
+      "len": 14,
+      "orig_text": "急ぎましょう！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18caa",
+      "translated": true,
+      "len": 7,
+      "orig_text": "おや？\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18cb4",
+      "translated": true,
+      "len": 34,
+      "orig_text": "さん\nずいぶんとごぶさた\nでしたねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18d67",
+      "translated": true,
+      "len": 27,
+      "orig_text": "うん、ちょっと\n色々あってね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18da9",
+      "translated": true,
+      "len": 71,
+      "orig_text": "本当は、買い出しが\n終わったら、急いで\n戻らなくちゃダメ\nなんだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18e17",
+      "translated": true,
+      "len": 33,
+      "orig_text": "お腹、すいちゃって\nはははは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18e68",
+      "translated": true,
+      "len": 29,
+      "orig_text": "えーと・・・\n色々あったもので",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18eac",
+      "translated": true,
+      "len": 71,
+      "orig_text": "本当は、買い出しが\n終わったら、急いで\n戻らなくちゃダメ\nなんだけど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18f1a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "お腹、すいちゃって\nあははは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "18fc4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "それはそれは・・・\nでは、大盛りにして\nおきますね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "190b1",
+      "translated": true,
+      "len": 29,
+      "orig_text": "さすがは大将！\nわかってるなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "190fe",
+      "translated": true,
+      "len": 33,
+      "orig_text": "さすがは大将！\nわかってるじゃない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1917e",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ええ、この商売\n気配りなしでは渡って\nいけないですからね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19312",
+      "translated": true,
+      "len": 14,
+      "orig_text": "・・・ぶっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1937f",
+      "translated": true,
+      "len": 8,
+      "orig_text": "わっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "193e6",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ゲホッ！エホッ！？\nあ、ははは・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "194c6",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この人、なんで\nいきなり吹き出したり\nしたんだ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1958c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この人、なんで\nいきなり吹き出したり\nするのよ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1961f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ひ、ひゃはは・・っ\n苦しいぃぃぃっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "196e9",
+      "translated": true,
+      "len": 29,
+      "orig_text": "お客さん\nお行儀が悪いですよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19765",
+      "translated": true,
+      "len": 58,
+      "orig_text": "だ、だってぇ・・・\nお師匠ったら、完全に\nとけこんでるしぃ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19844",
+      "translated": true,
+      "len": 8,
+      "orig_text": "お師匠？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "198f1",
+      "translated": true,
+      "len": 54,
+      "orig_text": "お師匠ではありません\n大将ですよ？\n間違えないでください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19986",
+      "translated": true,
+      "len": 71,
+      "orig_text": "だ、ダメ・・・っ！\n笑いがっ、笑いが\n止まんないよぉ？\nあはははは・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19a56",
+      "translated": true,
+      "len": 54,
+      "orig_text": "いい加減になさい！\nアカ・・・ではなくて\nお客さんっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19b31",
+      "translated": true,
+      "len": 6,
+      "orig_text": "？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19bdc",
+      "translated": true,
+      "len": 58,
+      "orig_text": "さあ、食べ終わったら\nさっさとお勘定を\n払って、お行きなさい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19c3d",
+      "translated": true,
+      "len": 27,
+      "orig_text": "隣のお客さんの\n迷惑ですから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19ce1",
+      "translated": true,
+      "len": 67,
+      "orig_text": "ええっ！？\nだって、おしょうゆを\n持ってきたご褒美って\nお師匠が・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19dad",
+      "translated": true,
+      "len": 27,
+      "orig_text": "お師匠ではなく\n大将でしょう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19def",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ほほう・・・\nそれとも、食い逃げを\nなさると？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19ea4",
+      "translated": true,
+      "len": 33,
+      "orig_text": "お、お代っ！\nここに置きますう！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19f4e",
+      "translated": true,
+      "len": 6,
+      "orig_text": "アカネ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "19f6d",
+      "translated": true,
+      "len": 18,
+      "orig_text": "さいならぁ〜っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a024",
+      "translated": true,
+      "len": 54,
+      "orig_text": "結局のところ・・・\nなんだったわけ？？？\n今のは・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a512",
+      "translated": true,
+      "len": 15,
+      "orig_text": "ミニゲーム\n修行",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a5e9",
+      "translated": true,
+      "len": 15,
+      "orig_text": "ミニゲーム\nネコ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a6c0",
+      "translated": true,
+      "len": 15,
+      "orig_text": "ミニゲーム\nつり",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1a986",
+      "translated": true,
+      "len": 44,
+      "orig_text": "誰と話す？\n　モーリンと話す\n　カザミネと話す",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ac34",
+      "translated": true,
+      "len": 46,
+      "orig_text": "ここが、トライドラ\n聖王家を守る騎士たち\nの街か",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ac84",
+      "translated": true,
+      "len": 50,
+      "orig_text": "ここが、トライドラ\n聖王家を守る騎士たち\nの街なのね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ad15",
+      "translated": true,
+      "len": 79,
+      "orig_text": "この街は聖王国を護る\n騎士の育成を目的とし\nそれに携わることで\n人々は暮らしている",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ad8b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "街自体が、いわば巨大\nなひとつの砦なんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ae57",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そっか、だからゼラム\nやファナンに比べると\n地味なんだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1af36",
+      "translated": true,
+      "len": 20,
+      "orig_text": "これで地味なの？？？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b021",
+      "translated": true,
+      "len": 62,
+      "orig_text": "地味かどうかはわから\nないけど、暮らしてる\n人間はもっと多いかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b081",
+      "translated": true,
+      "len": 62,
+      "orig_text": "地味かどうかはわから\nないけど、暮らしてる\n人間はもっと多いかな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b148",
+      "translated": true,
+      "len": 10,
+      "orig_text": "うあ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b293",
+      "translated": true,
+      "len": 75,
+      "orig_text": "シカシ、あるじ殿ヨ\nソウダトシテモ、往来\nヲ行ク人ノ数ガ少ナク\nアリマセンカ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b305",
+      "translated": true,
+      "len": 18,
+      "orig_text": "昼日中ダトイウノニ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b3a8",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ああ、そう言われると\n人通りが少ないな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b3f4",
+      "translated": true,
+      "len": 37,
+      "orig_text": "休んでいるお店とかも\nあちこち目立つし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b43b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ええ、そう言われると\n人通りが少ないわね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b489",
+      "translated": true,
+      "len": 37,
+      "orig_text": "休んでいるお店とかも\nあちこち目立つし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b553",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ひょっとすると、僕ら\nより先に伝令が到着し\nたのかもしれんな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b5b4",
+      "translated": true,
+      "len": 54,
+      "orig_text": "戦争を前にした緊張が\n理由なら、この静けさ\nも理解できる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b68f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ナルホド・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b76b",
+      "translated": true,
+      "len": 35,
+      "orig_text": "よお、ニンゲン\nオレは気にくわねェぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b849",
+      "translated": true,
+      "len": 12,
+      "orig_text": "なにがだよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b877",
+      "translated": true,
+      "len": 8,
+      "orig_text": "なにが？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b8de",
+      "translated": true,
+      "len": 77,
+      "orig_text": "辛気くせぇんだよッ\n騎士の街って言うから\nもっと荒々しい雰囲気\nかと思ってりゃあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1b952",
+      "translated": true,
+      "len": 79,
+      "orig_text": "どいつもこいつも覇気\nがねェ！感情の起伏\nってもんが、ちっとも\n伝わってこねェぞ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ba46",
+      "translated": true,
+      "len": 40,
+      "orig_text": "そうですね\nこの子の\n言うとおりかも・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bb3d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ケッ！せっかく殺気\nだった空気を満喫でき\nると思ったのによォ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bc32",
+      "translated": true,
+      "len": 42,
+      "orig_text": "お前・・・\n結局、それが不満な\nだけか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bca8",
+      "translated": true,
+      "len": 48,
+      "orig_text": "あんた・・・\n結局、それが不満な\nだけなのね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bda6",
+      "translated": true,
+      "len": 18,
+      "orig_text": "・・・（ぎゅっ）！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1be73",
+      "translated": true,
+      "len": 19,
+      "orig_text": "おい、どうしたんだ\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1be89",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\n急に立ち止まって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bebc",
+      "translated": true,
+      "len": 13,
+      "orig_text": "どうしたの？\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1becc",
+      "translated": true,
+      "len": 17,
+      "orig_text": "\n急に立ち止まって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bf3c",
+      "translated": true,
+      "len": 10,
+      "orig_text": "・・・やだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1bf6d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "いきたくない・・・\nねえ、かえろう！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c023",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちょっと、こらっ\nそんなとこにしゃがみ\nこむなよっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c079",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ちょっと、こらっ\nそんなとこにしゃがみ\nこまないで！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c152",
+      "translated": true,
+      "len": 17,
+      "orig_text": "あら、珍しいわね\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c166",
+      "translated": true,
+      "len": 21,
+      "orig_text": "が\n駄々をこねるなんて",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c252",
+      "translated": true,
+      "len": 59,
+      "orig_text": "今まではこんなこと\nなかったのに・・・\nほら、ちゃんと立って\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c2b4",
+      "translated": true,
+      "len": 59,
+      "orig_text": "今まではこんなこと\nなかったのに・・・\nほら、ちゃんと立って\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c353",
+      "translated": true,
+      "len": 20,
+      "orig_text": "（ふるふるふるっ）！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c40c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ここまで歩きづめ\nだったもの。きっと\n疲れちゃったのよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c467",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ほら、おいで？\n私がおぶってあげる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c519",
+      "translated": true,
+      "len": 27,
+      "orig_text": "そんな、ケイナ\n悪いよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c556",
+      "translated": true,
+      "len": 27,
+      "orig_text": "そんな、ケイナ\n悪いわ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c5d0",
+      "translated": true,
+      "len": 18,
+      "orig_text": "いいから、いいから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c62d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ほら、貴方が怒るから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c663",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ほら、貴女が怒るから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c690",
+      "translated": true,
+      "len": 18,
+      "orig_text": "おびえちゃってるわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c747",
+      "translated": true,
+      "len": 16,
+      "orig_text": "・・・（ぎゅっ）",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c7b6",
+      "translated": true,
+      "len": 54,
+      "orig_text": "私なら平気だから\nしばらくこうしていて\nあげましょ、ね？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c8ba",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うううぅぅぅっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c983",
+      "translated": true,
+      "len": 15,
+      "orig_text": "な、なんだよ？\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c995",
+      "translated": true,
+      "len": 30,
+      "orig_text": "\nいきなり、変な声\nだして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c9d5",
+      "translated": true,
+      "len": 17,
+      "orig_text": "どっどうしたの？\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1c9e9",
+      "translated": true,
+      "len": 30,
+      "orig_text": "\nいきなり、変な声\nだして・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ca90",
+      "translated": true,
+      "len": 38,
+      "orig_text": "す、すいません\nご主人様\nでも・・・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cadd",
+      "translated": true,
+      "len": 79,
+      "orig_text": "なんだかボク、この街\nが怖くてしかたないん\nです。雰囲気が普通と\n違っていて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cb53",
+      "translated": true,
+      "len": 60,
+      "orig_text": "なんだか鼻の調子も\nおかしくて、血の匂い\nみたいな感じがするし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cc20",
+      "translated": true,
+      "len": 50,
+      "orig_text": "なに言ってんだよ\nこんな街中で、そんな\nわけが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cc74",
+      "translated": true,
+      "len": 50,
+      "orig_text": "なに言ってるのよ\nこんな街中で、そんな\nわけが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cd4b",
+      "translated": true,
+      "len": 37,
+      "orig_text": "いやー、あながち\nそうでもないかもなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cd97",
+      "translated": true,
+      "len": 75,
+      "orig_text": "なんつったってここは\n歴戦の騎士の国だ\n街全体に戦争による血\nが染みこんでんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ce6b",
+      "translated": true,
+      "len": 8,
+      "orig_text": "えっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cefc",
+      "translated": true,
+      "len": 62,
+      "orig_text": "その匂いに誘われてな\n夜な夜な不気味な連中\nがうろつくとか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1cfc3",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ふええぇぇぇぇっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d0ae",
+      "translated": true,
+      "len": 35,
+      "orig_text": "おい、フォルテ\nあんまりからかうなよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d0f8",
+      "translated": true,
+      "len": 73,
+      "orig_text": "トライドラの街が戦場\nになったことは、まだ\n一度もないってネスが\n言ってたぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d163",
+      "translated": true,
+      "len": 44,
+      "orig_text": "フォルテ・・・\nあんまりからかわない\nでくれる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d1b6",
+      "translated": true,
+      "len": 75,
+      "orig_text": "トライドラの街が戦場\nになったことは、まだ\n一度もないってネスが\n言ってたわよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d28a",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ふえぇ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d33d",
+      "translated": true,
+      "len": 69,
+      "orig_text": "うははははっ！\nわりぃ、わりぃ\nしかしまさか、泣くと\nは思わなくて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d40b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "フォルテさぁぁん！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d47e",
+      "translated": true,
+      "len": 21,
+      "orig_text": "悪かった、悪かったよ\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d496",
+      "translated": true,
+      "len": 13,
+      "orig_text": "\nすまねーって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d52c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ひどいですよぉ・・・\nえぐぅ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d61b",
+      "translated": true,
+      "len": 48,
+      "orig_text": "くんくんくん・・・\nうーん、気になる\nですの・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d6dc",
+      "translated": true,
+      "len": 23,
+      "orig_text": "どうしたんだよ\nモナティ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d715",
+      "translated": true,
+      "len": 21,
+      "orig_text": "どうしたの？\nモナティ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d789",
+      "translated": true,
+      "len": 54,
+      "orig_text": "さっきからずっと\nおかしな匂いがして\nしかたないんですの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d7e6",
+      "translated": true,
+      "len": 46,
+      "orig_text": "なまぐさいよーな\nすっぱいよーな\nくんくん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d8a5",
+      "translated": true,
+      "len": 27,
+      "orig_text": "気のせいなんじゃ\nないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d8e2",
+      "translated": true,
+      "len": 25,
+      "orig_text": "気のせいなんじゃ\nないの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d95a",
+      "translated": true,
+      "len": 67,
+      "orig_text": "そんなはずは絶対に\nないですのー！\nこう見えてもモナティ\nの鼻は・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1d9c4",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ひゃなふぁ・・・\nふぁっ、ふぁ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1da70",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ひゃっくしょんっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1db3d",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うひゃあっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1db6d",
+      "translated": true,
+      "len": 12,
+      "orig_text": "きゃぁあ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dc02",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ううにゅうぅぅ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dcd1",
+      "translated": true,
+      "len": 33,
+      "orig_text": "ああっ、ほらほら\n早くふかないと！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dd14",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ああっ、ほらほら\n早くふいて！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dd92",
+      "translated": true,
+      "len": 35,
+      "orig_text": "にゅううう・・・\nずびばせんですのぉ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1de7f",
+      "translated": true,
+      "len": 54,
+      "orig_text": "お待たせしました\n領主リゴール様との\n謁見が適いそうです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1dedc",
+      "translated": true,
+      "len": 35,
+      "orig_text": "皆さん、こちらへ\n城までご案内します",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e008",
+      "translated": true,
+      "len": 35,
+      "orig_text": "静かなのは街の中だけ\nかと思ったけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e04d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "静かなのは街の中だけ\nかと思ったけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e101",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この城に入ってからも\nちっとも人の姿を\n見かけないなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e157",
+      "translated": true,
+      "len": 52,
+      "orig_text": "この城に入ってからも\nちっとも人の姿を\n見かけないわね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e24c",
+      "translated": true,
+      "len": 75,
+      "orig_text": "なあ、シャムロック\nお前の報告を聞いたに\nしては、あんまり城に\n動きがねーな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e33c",
+      "translated": true,
+      "len": 52,
+      "orig_text": "もうすこし慌ただしい\n様子を想像していたん\nだけどねえ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e3f9",
+      "translated": true,
+      "len": 79,
+      "orig_text": "リゴール様は、皆さん\nからお話を聞いたうえ\nで、全軍に指示を与え\nるつもりなのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e46f",
+      "translated": true,
+      "len": 77,
+      "orig_text": "城には一般の者たちも\n多く出入りしています\n下手な噂はそれこそ\n混乱を招きますし",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e561",
+      "translated": true,
+      "len": 14,
+      "orig_text": "なるほど・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e614",
+      "translated": true,
+      "len": 58,
+      "orig_text": "これだけ静かなのにか\nふぃーっ、なんとも\n用心深いこったなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e6f3",
+      "translated": true,
+      "len": 62,
+      "orig_text": "領主様がおいでになる\n合図は、近衛の楽隊が\n知らせてくれますので",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e782",
+      "translated": true,
+      "len": 75,
+      "orig_text": "それまではあまり緊張\nしなくて結構ですよ\n小声なら、話をしてて\n構いませんから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e888",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e8b8",
+      "translated": true,
+      "len": 14,
+      "orig_text": "それじゃ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1e973",
+      "translated": true,
+      "len": 39,
+      "orig_text": "城の中なんて、あたい\n生まれて初めてだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ea55",
+      "translated": true,
+      "len": 18,
+      "orig_text": "俺だってそうだって",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ea89",
+      "translated": true,
+      "len": 18,
+      "orig_text": "あたしだってそうよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eb24",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ど、どうしようっ\nあたい、ちっとも上品\nじゃないし・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eb81",
+      "translated": true,
+      "len": 56,
+      "orig_text": "なにか無礼やらかして\n牢屋にぶちこまれる\nかもしんないよぉ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ec5e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "なぁに、気にすんな\nこっちの育ちの悪さは\nあっちも先刻承知さ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ecbf",
+      "translated": true,
+      "len": 54,
+      "orig_text": "せいぜい小馬鹿にして\n笑われてオシマイだ\nもっとも・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ed46",
+      "translated": true,
+      "len": 77,
+      "orig_text": "そのわりに周りの連中\nが、さっきから無関心\nでいるあたり、俺様は\n疑問なんだがな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ee2a",
+      "translated": true,
+      "len": 41,
+      "orig_text": "なんか、人形に囲まれ\nちまってる気がするよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1eeb2",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ＶＩＰの警備なんかで\nこうした宮殿に入った\nことは何度かあるが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1ef15",
+      "translated": true,
+      "len": 73,
+      "orig_text": "異常だぜ？もっとも\nこれが、こっちの世界\nのマナーなら、話は別\nだがな・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f03b",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・あっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f0ec",
+      "translated": true,
+      "len": 58,
+      "orig_text": "領主様の到着です\n発言をうながされたら\nそれに従ってください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f205",
+      "translated": true,
+      "len": 63,
+      "orig_text": "シルターンの\nサムライってのは\nこっちでいう騎士\nにあたるんだよな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f26b",
+      "translated": true,
+      "len": 63,
+      "orig_text": "だったら\nカザミネさんは\nこういう謁見に慣れて\nるんじゃないのか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f2cc",
+      "translated": true,
+      "len": 61,
+      "orig_text": "シルターンの\nサムライってのは\nこっちでいう騎士\nにあたるのよね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f330",
+      "translated": true,
+      "len": 61,
+      "orig_text": "だったら\nカザミネさんは\nこういう謁見に慣れて\nるんじゃないの？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f3cc",
+      "translated": true,
+      "len": 75,
+      "orig_text": "とんでもござらん！\n拙者は未だ修行の途中\n主君に仕えたことなど\nないのでござる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f43e",
+      "translated": true,
+      "len": 73,
+      "orig_text": "こういった礼儀作法は\nミコであるカイナ殿の\nほうが、よほど詳しい\nでござるよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f518",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうなんだ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f546",
+      "translated": true,
+      "len": 6,
+      "orig_text": "へーっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f5f1",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ええ、まあ・・・\nですが、それよりも",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f6a5",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それよりも？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f6d3",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それよりも？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f768",
+      "translated": true,
+      "len": 58,
+      "orig_text": "なにやら、胸騒ぎが\nしてしかたないのです\nうまく言えませんが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f7c9",
+      "translated": true,
+      "len": 48,
+      "orig_text": "そこかしこから\n悪意のようなものを\n感じるというか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f89e",
+      "translated": true,
+      "len": 10,
+      "orig_text": "なんと！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f907",
+      "translated": true,
+      "len": 31,
+      "orig_text": "確信ではありません\nですが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1f9b0",
+      "translated": true,
+      "len": 57,
+      "orig_text": "さんの\n様子が変だったのは\nこのせいだったのかも\nしれません",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fa10",
+      "translated": true,
+      "len": 41,
+      "orig_text": "お二人とも、くれぐれ\nも気をつけてください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fb10",
+      "translated": true,
+      "len": 14,
+      "orig_text": "う、うん・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fb4e",
+      "translated": true,
+      "len": 16,
+      "orig_text": "えっ、ええ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fc03",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・あっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fcc2",
+      "translated": true,
+      "len": 58,
+      "orig_text": "領主様の到着です\n発言をうながされたら\nそれに従ってください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "1fe10",
+      "translated": true,
+      "len": 39,
+      "orig_text": "どうする？\n　叱る\n　なだめる\n　逃げ出す",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20172",
+      "translated": true,
+      "len": 52,
+      "orig_text": "遠路よりご苦労だった\n私がトライドラの領主\nリゴールだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20237",
+      "translated": true,
+      "len": 56,
+      "orig_text": "さすがは騎士たちの街\nを束ねる領主様だよな\n貫禄があるなあ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20291",
+      "translated": true,
+      "len": 10,
+      "orig_text": "渋い・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "202c2",
+      "translated": true,
+      "len": 50,
+      "orig_text": "さすがは騎士たちの街\nを束ねる領主様ね\n貫禄があるわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20353",
+      "translated": true,
+      "len": 50,
+      "orig_text": "お前たちのことは\nシャムロックより報告\nを受けておる",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "203ac",
+      "translated": true,
+      "len": 58,
+      "orig_text": "陥落したローウェン砦\nより、命がけでこの者\nを救い出したとか",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2040d",
+      "translated": true,
+      "len": 31,
+      "orig_text": "重ねて礼を言うぞ\nご苦労であった",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "204bd",
+      "translated": true,
+      "len": 50,
+      "orig_text": "い、いえ・・・\nそれほどのことをした\nわけでは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20511",
+      "translated": true,
+      "len": 50,
+      "orig_text": "い、いえ・・・\nそれほどのことをした\nわけでは・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "205e8",
+      "translated": true,
+      "len": 75,
+      "orig_text": "領主様に申し上げます\nかの者たちは、我らが\n交戦したデグレアの\n特務部隊・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2065a",
+      "translated": true,
+      "len": 60,
+      "orig_text": "黒の旅団なる者たちに\n以前より狙われていた\nとのことであります",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "206f5",
+      "translated": true,
+      "len": 12,
+      "orig_text": "それは真か？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "207a6",
+      "translated": true,
+      "len": 56,
+      "orig_text": "事実です、領主殿\n黒の旅団のルヴァイド\nなるデグレア騎士は",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20805",
+      "translated": true,
+      "len": 71,
+      "orig_text": "ここに控えるこの娘\nアメルの身柄を欲し\nレルムの村を焼き討ち\nにかけました",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "208f1",
+      "translated": true,
+      "len": 77,
+      "orig_text": "この少女は、民たちの\n間で噂にのぼっていた\n癒しの奇跡を用いる\nあの聖女なのです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "209c7",
+      "translated": true,
+      "len": 50,
+      "orig_text": "なんと・・・！\nアメルとやら、それは\n本当なのだな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20a9e",
+      "translated": true,
+      "len": 33,
+      "orig_text": "はい、領主様\nおっしゃるとおりです",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20b1e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "そうか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20bcf",
+      "translated": true,
+      "len": 79,
+      "orig_text": "彼らの聞き及ぶところ\nデグレアは今回の侵攻\nに勝利するため、彼女\nを欲しております",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20c45",
+      "translated": true,
+      "len": 35,
+      "orig_text": "おそらくはその奇跡の\n力が目当てかと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20cc7",
+      "translated": true,
+      "len": 6,
+      "orig_text": "・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20d2c",
+      "translated": true,
+      "len": 79,
+      "orig_text": "願わくば、彼らに我が\nトライドラより相応の\n庇護をお与えになられ\nますことを・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20e49",
+      "translated": true,
+      "len": 12,
+      "orig_text": "・・・ふふっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20ede",
+      "translated": true,
+      "len": 8,
+      "orig_text": "領主様？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20f45",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ふふふっ、くくくっ\nひゃはははは！！\nひぃーっはっはっは！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "20fdc",
+      "translated": true,
+      "len": 71,
+      "orig_text": "それが本当ならば\nまたしても重ねて礼を\n言わなくてはなぁ？\nなにしろ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2110d",
+      "translated": true,
+      "len": 79,
+      "orig_text": "ワタクシは労せずして\nあの御方の望む「鍵」\nを手に入れたことに\nなるのですからねぇ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21274",
+      "translated": true,
+      "len": 20,
+      "orig_text": "玉座の影から人が！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2132d",
+      "translated": true,
+      "len": 33,
+      "orig_text": "てめぇ・・・\nいったい、何者だ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "213ad",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ワタクシはキュラー\n貴公たちのことは同輩\nより耳にしております",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21410",
+      "translated": true,
+      "len": 77,
+      "orig_text": "スルゼン砦でガレアノ\nを倒し、ローウェン砦\nではビーニャを退けた\nご活躍とのこと",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21575",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2164f",
+      "translated": true,
+      "len": 37,
+      "orig_text": "チッ！不愉快の原因\nはコイツかよッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21734",
+      "translated": true,
+      "len": 29,
+      "orig_text": "やっぱり・・・\nいた・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2181b",
+      "translated": true,
+      "len": 56,
+      "orig_text": "ってことは、アレだ\nお前さんもデグレアの\n手先ってわけかい",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "218b2",
+      "translated": true,
+      "len": 67,
+      "orig_text": "仰せのとおりで\nしかし、ワタクシは\nあの二人よりいささか\n勤勉でしてな",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2191c",
+      "translated": true,
+      "len": 69,
+      "orig_text": "貴公らがおいでになる\n前に、命じられた仕事\nを終えております\nほら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21ae6",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ぐっ、ぐるるぅぅっ！\nぐゲっ、がアっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21bc0",
+      "translated": true,
+      "len": 12,
+      "orig_text": "領主様っ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21c71",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ククク・・・\nさあ、解放なさいませ\n貴方の黒き衝動を？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "21d04",
+      "translated": true,
+      "len": 31,
+      "orig_text": "いざや、鬼へと\n変じませいっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22236",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ぐゲがアぁァぁッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "222fd",
+      "translated": true,
+      "len": 35,
+      "orig_text": "り、領主様っ！\nリゴールさまぁっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "223c5",
+      "translated": true,
+      "len": 61,
+      "orig_text": "そんな・・・\n人間が、一瞬のうちに\nバケモノに変わる\nなんて！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "224c3",
+      "translated": true,
+      "len": 56,
+      "orig_text": "鬼神ひょうい・・・\n貴方、この人に邪鬼を\nつかせましたね！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2255a",
+      "translated": true,
+      "len": 57,
+      "orig_text": "クククク・・・\nいかにもいかにも\nワタクシは鬼神使い\nでして",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "225ba",
+      "translated": true,
+      "len": 50,
+      "orig_text": "人の心は脆いもの\nトライドラに住む者の\nことごとくが",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22613",
+      "translated": true,
+      "len": 60,
+      "orig_text": "ワタクシがきっかけを\n与えるだけで、簡単に\n鬼へと変じましたよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "226ae",
+      "translated": true,
+      "len": 33,
+      "orig_text": "クククククッ\nじつに愉快ですなぁ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22790",
+      "translated": true,
+      "len": 31,
+      "orig_text": "しゃアァァむ\nろオぉぉぉっク！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "227d6",
+      "translated": true,
+      "len": 62,
+      "orig_text": "欲しイ、欲シいぞォ！\n貴様の肉がァ、血ガぁ\n魂がアァァァァッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2289d",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あ、ああ・・・っ\n嘘だ・・・嘘だぁっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "229d1",
+      "translated": true,
+      "len": 16,
+      "orig_text": "シャムロックさん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22a03",
+      "translated": true,
+      "len": 16,
+      "orig_text": "シャムロックさん",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22ae4",
+      "translated": true,
+      "len": 73,
+      "orig_text": "しっかりしてください\nシャムロックさん！？\nこれは嘘なんかじゃ\nないんです！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22bc4",
+      "translated": true,
+      "len": 71,
+      "orig_text": "認めたくないひどい\nことだけど、目の前の\nアイツが、領主様を\n変えたんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22c2d",
+      "translated": true,
+      "len": 73,
+      "orig_text": "しっかりしてください\nシャムロックさん！？\nこれは嘘なんかじゃ\nないんです！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22d0d",
+      "translated": true,
+      "len": 71,
+      "orig_text": "認めたくないひどい\nことだけど、目の前の\nアイツが、領主様を\n変えたのよ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22db3",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22e63",
+      "translated": true,
+      "len": 53,
+      "orig_text": "の\n言うとおりだぜ\nお前がふぬけてて\nどうすんだよ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22ef7",
+      "translated": true,
+      "len": 56,
+      "orig_text": "そんなんで聖王国を\n守ることなんてできん\nのか、ええっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "22fb8",
+      "translated": true,
+      "len": 20,
+      "orig_text": "フォルテ、さま・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2309d",
+      "translated": true,
+      "len": 58,
+      "orig_text": "シャムロックさん！\n取り乱したら、あいつ\nの思うつぼだよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "230f9",
+      "translated": true,
+      "len": 56,
+      "orig_text": "シャムロックさん！\n取り乱したら、あいつ\nの思うつぼよ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23190",
+      "translated": true,
+      "len": 35,
+      "orig_text": "だが、だが・・・っ\nしかし・・・！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2328d",
+      "translated": true,
+      "len": 38,
+      "orig_text": "\nシャムロックさんを\n下がらせてください",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "232da",
+      "translated": true,
+      "len": 48,
+      "orig_text": "今の彼では、あいつと\n戦うことは無理です\n急いで！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "233b8",
+      "translated": true,
+      "len": 21,
+      "orig_text": "そいつを下がらせろ！\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "233f9",
+      "translated": true,
+      "len": 77,
+      "orig_text": "このままで終わるわけ\nがねぇんだ・・・\n今のそいつは、戦いの\n役には立たねぇ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23507",
+      "translated": true,
+      "len": 27,
+      "orig_text": "シャムロックさん\nこっちへ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "235c9",
+      "translated": true,
+      "len": 33,
+      "orig_text": "こんな状況で戦うのは\n不利だ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "2360c",
+      "translated": true,
+      "len": 33,
+      "orig_text": "こんな状況で戦うのは\n不利よ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "236be",
+      "translated": true,
+      "len": 18,
+      "orig_text": "逃げるぞ、みんな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "236f2",
+      "translated": true,
+      "len": 20,
+      "orig_text": "逃げるわよ。みんな！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "237ab",
+      "translated": true,
+      "len": 33,
+      "orig_text": "そうくると思いました\nですが・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23855",
+      "translated": true,
+      "len": 4,
+      "orig_text": "兵士",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23872",
+      "translated": true,
+      "len": 20,
+      "orig_text": "グぎャオおォゃゥ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23947",
+      "translated": true,
+      "len": 69,
+      "orig_text": "周りの兵士たちも\nすでに鬼にされている\n抜かりはないという\nわけか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "239eb",
+      "translated": true,
+      "len": 39,
+      "orig_text": "これじゃ、逃げるの\nなんて無理だよぉ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23abf",
+      "translated": true,
+      "len": 75,
+      "orig_text": "存分に恐怖なさい\n思いきり苦しみなさい\nそれが貴公らの心にも\n鬼を招くでしょう",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "23b69",
+      "translated": true,
+      "len": 46,
+      "orig_text": "クククク・・・\nいざや、ゆるりと鬼に\nなれい！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}

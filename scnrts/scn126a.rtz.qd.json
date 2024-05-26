@@ -1,0 +1,1256 @@
+{
+  "md5": "4bbec1d383cad392a5cff8b7f6efb232",
+  "blocks": [
+    {
+      "offset": "36ef",
+      "translated": true,
+      "len": 38,
+      "orig_text": "！\nあんた、ユエルを\n見なかったかい！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "37a6",
+      "translated": true,
+      "len": 44,
+      "orig_text": "どうしたんだよ？\nモーリン\nそれに、ミニスも？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "37f4",
+      "translated": true,
+      "len": 50,
+      "orig_text": "なにをあわててるのよ\nモーリン\nそれに、ミニスまで？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "38cb",
+      "translated": true,
+      "len": 31,
+      "orig_text": "見たのっ！？\n見なかったのっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "397b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "見たもなにも・・・\n今さっき、あっちへ\n走ってったけど？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "39d3",
+      "translated": true,
+      "len": 54,
+      "orig_text": "見たもなにも・・・\n今さっき、あっちへ\n走ってったけど？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3a9a",
+      "translated": true,
+      "len": 33,
+      "orig_text": "もしかして・・・\nまた、あいつ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3add",
+      "translated": true,
+      "len": 33,
+      "orig_text": "もしかして・・・\nまた、あの子！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ba3",
+      "translated": true,
+      "len": 48,
+      "orig_text": "そうじゃないよ\n別に、あの子が悪さ\nしたんじゃない",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3bfa",
+      "translated": true,
+      "len": 20,
+      "orig_text": "じつは、さっき・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3cbb",
+      "translated": true,
+      "len": 35,
+      "orig_text": "ユエルを召喚した人が\n来てるのか！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3d00",
+      "translated": true,
+      "len": 39,
+      "orig_text": "ユエルを召喚した人が\n来てるですって！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3dcc",
+      "translated": true,
+      "len": 48,
+      "orig_text": "うん・・・\nだけど、なんだか\n様子がおかしかったの",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3ea1",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そいつの顔を見るなり\nあの子、悲鳴をあげて\n逃げ出したんだよ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3f02",
+      "translated": true,
+      "len": 37,
+      "orig_text": "あれは、どう見たって\n普通じゃないよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "3fcc",
+      "translated": true,
+      "len": 35,
+      "orig_text": "それに、その召喚師の\n仲間たち・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4093",
+      "translated": true,
+      "len": 67,
+      "orig_text": "あれは、きっと\n暗殺者だよっ！？\nあたし、前に見たこと\nあるものっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4191",
+      "translated": true,
+      "len": 16,
+      "orig_text": "暗殺者だって！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4225",
+      "translated": true,
+      "len": 10,
+      "orig_text": "暗殺者！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4416",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ずいぶんと・・・\n手間をかけさせて\nくれたものだなあ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4471",
+      "translated": true,
+      "len": 41,
+      "orig_text": "聖王都では見失ったが\n今度はそうはいかんぞ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "44f9",
+      "translated": true,
+      "len": 31,
+      "orig_text": "こ・・・っ\nこないでぇ・・・っ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "45a1",
+      "translated": true,
+      "len": 46,
+      "orig_text": "なにを言うのだ！\n私は、お前の主人では\nないか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4658",
+      "translated": true,
+      "len": 41,
+      "orig_text": "アンタみたいな・・・\nウソつきなんか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "46e0",
+      "translated": true,
+      "len": 31,
+      "orig_text": "ユエルっ！\n大キライだもんッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "475e",
+      "translated": true,
+      "len": 63,
+      "orig_text": "ふははははっ\n道具でしかないお前に\n好かれたいなどとは\n思わんよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "47c4",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ただな、道具としての\n役目を放棄されては\n困るのだ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4821",
+      "translated": true,
+      "len": 77,
+      "orig_text": "ギルドの幹部の方々も\nお怒りでな・・・\nこのままでは、私まで\n殺されてしまうんだ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "48bf",
+      "translated": true,
+      "len": 29,
+      "orig_text": "さあ、戻って\n仕事を続けるぞ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "493b",
+      "translated": true,
+      "len": 39,
+      "orig_text": "お前が殺す標的たちが\nお待ちかねだッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "49eb",
+      "translated": true,
+      "len": 18,
+      "orig_text": "イヤだよぉ・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4a5c",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ユエルっ、もう誰も\n殺したくなんかっ\nないよォォ〜っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4be2",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4c50",
+      "translated": true,
+      "len": 6,
+      "orig_text": "っ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4d17",
+      "translated": true,
+      "len": 6,
+      "orig_text": "はぁ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4dc2",
+      "translated": true,
+      "len": 35,
+      "orig_text": "暗殺っていうのは\nどういうことだい？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e0c",
+      "translated": true,
+      "len": 29,
+      "orig_text": "殺したくないって\nあんた・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4e88",
+      "translated": true,
+      "len": 56,
+      "orig_text": "いったい、その子に\nなにをさせてきたって\n言うんだいッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4f49",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ふはははは・・・っ\nこいつはなァ、私の\n大切な道具さ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4fa4",
+      "translated": true,
+      "len": 29,
+      "orig_text": "私の雇い主は\n暗殺者の組織でね",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "4fe8",
+      "translated": true,
+      "len": 69,
+      "orig_text": "普通の暗殺者には\n難しい標的を、そいつ\nを使って殺すのが\n仕事なのだよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5104",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "512a",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "518d",
+      "translated": true,
+      "len": 75,
+      "orig_text": "ふふふふ・・・っ\n高い金を払ってまで\n召喚術を学んだだけの\n甲斐があったものさ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "51ff",
+      "translated": true,
+      "len": 75,
+      "orig_text": "そいつは、一度も\nしくじったことがない\n両手の指より多い数の\n殺しを成功させた",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "52ef",
+      "translated": true,
+      "len": 61,
+      "orig_text": "それは・・・\nオマエが、ユエルを\nだましたからじゃ\nないかッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "538b",
+      "translated": true,
+      "len": 54,
+      "orig_text": "悪い人だから・・・\nやっつけてくれって\nウソついて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5420",
+      "translated": true,
+      "len": 48,
+      "orig_text": "なんにも知らない\nユエルを、利用した\nくせにっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5543",
+      "translated": true,
+      "len": 71,
+      "orig_text": "それで、ユエルは\nこの世界の常識を\nまったく教えられて\nなかったのか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "55b1",
+      "translated": true,
+      "len": 50,
+      "orig_text": "暗殺の道具として\n都合がいいからって\n理由だけで！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5605",
+      "translated": true,
+      "len": 71,
+      "orig_text": "それで、ユエルは\nこの世界の常識を\nまったく教えられて\nなかったのね・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5673",
+      "translated": true,
+      "len": 50,
+      "orig_text": "暗殺の道具として\n都合がいいからって\n理由だけで！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "574a",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ひどいっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "577d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "アナタっ、それでも\n召喚師なのっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5829",
+      "translated": true,
+      "len": 61,
+      "orig_text": "黙れっ！！\n私が、私の召喚獣を\nどう使おうと、自由\nだろうが！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "593d",
+      "translated": true,
+      "len": 65,
+      "orig_text": "お前みたいな\n外道召喚師なんかに\nユエルを連れては\nいかせない・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "59a0",
+      "translated": true,
+      "len": 69,
+      "orig_text": "あんたみたいな\n外道召喚師なんかに\nユエルを連れては\nいかせないわ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5a76",
+      "translated": true,
+      "len": 14,
+      "orig_text": "覚悟しろっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5aa6",
+      "translated": true,
+      "len": 16,
+      "orig_text": "覚悟なさいっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5b15",
+      "translated": true,
+      "len": 61,
+      "orig_text": "ふん、どのみち\n知られた以上は\nお前たちも始末する\nつもりだよ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5c13",
+      "translated": true,
+      "len": 52,
+      "orig_text": "ミニスの言ってた\nとおりだったわけかい\nこいつら・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5ca6",
+      "translated": true,
+      "len": 44,
+      "orig_text": "気をつけてっ！？\n普通の相手じゃ\nないからっ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5da9",
+      "translated": true,
+      "len": 35,
+      "orig_text": "これじゃ・・・\nユエルに近づけないっ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5dee",
+      "translated": true,
+      "len": 35,
+      "orig_text": "これじゃ・・・\nユエルに近づけないわ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5efc",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ウウウゥゥ・・・ッ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5f6f",
+      "translated": true,
+      "len": 41,
+      "orig_text": "あくまで、主人である\n私に逆らうつもりか？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "5fe9",
+      "translated": true,
+      "len": 37,
+      "orig_text": "ふはははは・・・っ\nああ、いいだろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6097",
+      "translated": true,
+      "len": 54,
+      "orig_text": "ならば、お前につけた\nその首輪に物をいわす\nまでだッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6156",
+      "translated": true,
+      "len": 20,
+      "orig_text": "キャゥゥゥゥゥッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "62d6",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "63bf",
+      "translated": true,
+      "len": 60,
+      "orig_text": "くる・・・、し・・・\nあ・・・ガ・・・ッ\nぐ、グぅぅゥゥッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "645a",
+      "translated": true,
+      "len": 54,
+      "orig_text": "さあ、思い知るのだ\nお前にかけられた\n誓約の重みを・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "64ef",
+      "translated": true,
+      "len": 50,
+      "orig_text": "どうあがいても\nお前は、私に逆らえは\nしないのだ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "65aa",
+      "translated": true,
+      "len": 39,
+      "orig_text": "が・・・ガァッ！？\nうグルルルぅぅッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6692",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6791",
+      "translated": true,
+      "len": 16,
+      "orig_text": "下町の人たち！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "67c3",
+      "translated": true,
+      "len": 16,
+      "orig_text": "下町の人たち！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6894",
+      "translated": true,
+      "len": 39,
+      "orig_text": "な、なんだい・・！？\nこいつらは・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "697c",
+      "translated": true,
+      "len": 58,
+      "orig_text": "ふん、ちょうどいい？\nあいつらで、試させて\nもらおうか・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6a5b",
+      "translated": true,
+      "len": 35,
+      "orig_text": "来ちゃダメっ！？\n逃げてえぇ〜っ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6b3f",
+      "translated": true,
+      "len": 20,
+      "orig_text": "そいつらを殺せぇ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6bb2",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ウオォォォォッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6d49",
+      "translated": true,
+      "len": 14,
+      "orig_text": "うく・・・っ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6db6",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ユエ・・・ル・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6e8b",
+      "translated": true,
+      "len": 20,
+      "orig_text": "グルルルル・・・・ッ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6f28",
+      "translated": true,
+      "len": 20,
+      "orig_text": "アオォォォォォッ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "6fe1",
+      "translated": true,
+      "len": 18,
+      "orig_text": "そこまでですっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7052",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ガァ・・・ッ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7153",
+      "translated": true,
+      "len": 20,
+      "orig_text": "パッフェルさんっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7189",
+      "translated": true,
+      "len": 20,
+      "orig_text": "パッフェルさんっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "725e",
+      "translated": true,
+      "len": 58,
+      "orig_text": "どこかで見たような\n面々が歩いてるなって\n思ってたんですけど",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "72bf",
+      "translated": true,
+      "len": 37,
+      "orig_text": "やっぱり、組織の\n関係者でしたかっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "75b9",
+      "translated": true,
+      "len": 14,
+      "orig_text": "のわぁぁっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7688",
+      "translated": true,
+      "len": 10,
+      "orig_text": "あ・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7737",
+      "translated": true,
+      "len": 18,
+      "orig_text": "しまった、術が！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7841",
+      "translated": true,
+      "len": 12,
+      "orig_text": "血だ・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7874",
+      "translated": true,
+      "len": 44,
+      "orig_text": "ユエルの爪も・・・\n牙も・・・\n血だらけ・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "78c7",
+      "translated": true,
+      "len": 18,
+      "orig_text": "また、なの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7962",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ユエルっ、また！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7a19",
+      "translated": true,
+      "len": 44,
+      "orig_text": "アナタのせいじゃ\nないのよっ！！\nユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ace",
+      "translated": true,
+      "len": 18,
+      "orig_text": "イヤあぁぁぁっ！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7c90",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7cfe",
+      "translated": true,
+      "len": 8,
+      "orig_text": "・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7d2d",
+      "translated": true,
+      "len": 41,
+      "orig_text": "お願いだよ・・・っ？\nねえ、ユエルを・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7ddf",
+      "translated": true,
+      "len": 20,
+      "orig_text": "ユエルを、殺して！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f13",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7f39",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "7fc6",
+      "translated": true,
+      "len": 61,
+      "orig_text": "アイツが首輪を\n使ったら、ユエル\nまた、おかしく\nなっちゃうから",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "802a",
+      "translated": true,
+      "len": 48,
+      "orig_text": "おばちゃんたちに\nケガさせただけじゃ\nなくて・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8084",
+      "translated": true,
+      "len": 40,
+      "orig_text": "たち\n殺しちゃうかも\nしれないから・・・っ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8135",
+      "translated": true,
+      "len": 41,
+      "orig_text": "だから、そうなる前に\nユエルを殺してっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "81af",
+      "translated": true,
+      "len": 20,
+      "orig_text": "・・・ァァァァッ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "827e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "830e",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエルっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "83db",
+      "translated": true,
+      "len": 37,
+      "orig_text": "だから、逃げても\n無駄だと言ったろう？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8427",
+      "translated": true,
+      "len": 31,
+      "orig_text": "さあ、今度は\nそいつを殺すんだ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8523",
+      "translated": true,
+      "len": 20,
+      "orig_text": "コロ、シテ・・・ッ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "855e",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ハヤ、ク・・・ッ！",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8601",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "862f",
+      "translated": true,
+      "len": 12,
+      "orig_text": "ユエル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "86f6",
+      "translated": true,
+      "len": 48,
+      "orig_text": "それが、本当に\nお前の望んでること\nなのかよっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "87aa",
+      "translated": true,
+      "len": 50,
+      "orig_text": "それって、ホントに\nあなたの望んでること\nなのっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "883b",
+      "translated": true,
+      "len": 4,
+      "orig_text": "！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "88d0",
+      "translated": true,
+      "len": 56,
+      "orig_text": "死んでもいいのか？\n本当に、殺されたって\nいいのか・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "892a",
+      "translated": true,
+      "len": 52,
+      "orig_text": "死んでもいいの？\n本当に、殺されたって\nいいの・・・？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "89ef",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ウソだろっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8a1f",
+      "translated": true,
+      "len": 14,
+      "orig_text": "ウソつきっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8b4d",
+      "translated": true,
+      "len": 48,
+      "orig_text": "助けてほしいって\n言っていいんだよ？\nユエル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c14",
+      "translated": true,
+      "len": 60,
+      "orig_text": "そんな、悲しい嘘は\nつかなくたって・・・\nいいんだよ・・・っ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8c72",
+      "translated": true,
+      "len": 50,
+      "orig_text": "助けてほしいって\n言えばいいじゃない？\nユエル・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8d3b",
+      "translated": true,
+      "len": 58,
+      "orig_text": "そんな、悲しい嘘は\nつかなくたって・・・\nいいんだってば！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8dd4",
+      "translated": true,
+      "len": 18,
+      "orig_text": "ユエ、ル・・・ゥゥ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8e0d",
+      "translated": true,
+      "len": 35,
+      "orig_text": "シニタク・・・ッ\nナイ、ヨォ・・・ッ",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8e57",
+      "translated": true,
+      "len": 20,
+      "orig_text": "タスケ、テ・・・ッ？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8ebc",
+      "translated": true,
+      "len": 19,
+      "orig_text": "助けてえぇ〜っ！！\n",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8f8d",
+      "translated": true,
+      "len": 20,
+      "orig_text": "助けてあげるからな？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "8fc3",
+      "translated": true,
+      "len": 18,
+      "orig_text": "助けてあげる・・・",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9090",
+      "translated": true,
+      "len": 60,
+      "orig_text": "俺が、絶対に・・・っ\nユエルのことをっ！\n助けてやるからっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    },
+    {
+      "offset": "9150",
+      "translated": true,
+      "len": 67,
+      "orig_text": "あたしが、絶対に\nユエルのこと・・・\n絶対に助けてあげる\nからねっ！？",
+      "translated_text": "",
+      "translated_text_zh": "",
+      "note": ""
+    }
+  ]
+}
