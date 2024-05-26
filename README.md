@@ -1,2 +1,2 @@
 # SN2_SCNs
-Summon Night 2 texts extraction 
+Summon Night 2 text extraction 
